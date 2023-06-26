@@ -1,0 +1,59 @@
+.heading {
+  color: blue;
+}
+
+.left {
+  border-width:20px;
+  border-style:solid;
+  border-color: yellow;
+  padding: 20px;
+  margin: 20px;
+  width: 400px;
+  height: 400px;
+  background-color: #eee2de;
+  border-radius: 50%;
+}
+
+.left h3 {
+  text-align: center;
+}
+.right{
+border-width:20px;
+color: aqua;
+height:300px;
+width: 300px;
+border-style: solid;
+padding: 30px;
+margin: 30px;
+background-color: rgb(224, 18, 156);
+}
+
+.box{
+  display:flex;
+
+}
+
+
+.square{
+  border-width: 30px;
+  height: 150px;
+  width: 150hpx;
+  background-color: blueviolet;
+  border-style: solid;
+  padding: 10px;
+  margin: 40px;
+  background-color: aqua;
+
+}
+
+
+.rectangle{
+  border-width: 20px;
+  height: 100px;
+  width: 100px;
+  background-color: blanchedalmond;
+  border-style: groove;
+  padding: 20px;
+  margin: 40px;
+  background-color: blue;
+}
